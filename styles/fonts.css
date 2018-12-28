@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Belinda';
+    src: url(../fonts/belinda_0.otf);
+    src: url(../fonts/Belinda Regular_0.ttf);
+}
+@font-face {
+    font-family: 'Nexa';
+    src: url(../fonts/NexaRegular_0.otf);
+}
+@font-face {
+    font-family: 'Nexa Heavy';
+    src: url(../fonts/Nexa-Heavy.otf);
+    src: url(../fonts/NexaHeavy.ttf);
+}
